@@ -12,10 +12,10 @@
   font-style: normal;
   }
   
-  button {
+  /* button {
     cursor: pointer;
   }
-  
+   */
   button:active {
     transform: scale(0.95);
   }
